@@ -25,7 +25,7 @@ def wordlist(prompt, n):
 
 if __name__ == '__main__':
     english_words = load_words()
-    # minsize = input("Minimum character length: ")
+    
     while True:
         prompt = input("Enter prompt: ")
         prompt = prompt.lower()
