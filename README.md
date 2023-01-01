@@ -1,7 +1,9 @@
 # word-connect
 
 I came accross a mobile game, where you get set of letters. And I have to find out proper english words out of them, across different length sizes. For example,
-'''Enter prompt: top
+
+'''
+Enter prompt: top
 
 
 ['opt', 'pot', 'top']
